@@ -186,7 +186,7 @@ The raw encounter data is ingested into an initial staging table (`raw_appointme
 -- Script Name : table_creation.sql
 -- Description : Define raw staging schema for appointment encounter records
 -- Engine      : MySQL 8.0+
--- Author      : Lead Analytics Lead
+-- Author      : Junior Analyst
 -- =============================================================================
 
 USE NHS_Outpatient_DB;
@@ -800,6 +800,7 @@ Healthcare-Outpatient-Analytics/
 │
 └── Documentation/
     └── Health-Care_Report.pdf                 <- Production Executive PDF Report Deliverable
+    └── Health-Care_Report.md                  <- Production Executive Markdown Report
 ```
 
 ### 11.2 Verification Queries & Data Quality Audit
