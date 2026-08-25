@@ -213,7 +213,6 @@ Healthcare-Outpatient-Analytics/
 │
 └── Documentation/
     └── Health-Care_Report.pdf
-    └── Health-Care_Report.md
 ```
 
 ---
@@ -235,7 +234,7 @@ Healthcare-Outpatient-Analytics/
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-github-repository-url>
+git clone https://github.com/Dhiliban-R/Healthcare-Outpatient-Analytics.git
 cd Healthcare-Outpatient-Analytics
 ```
 
@@ -268,6 +267,20 @@ Open the interactive report file or view `Documentation/Health-Care_Report.pdf`.
 - **Re-engineer SMS Dispatch Rules:** Eliminate SMS messages for short lead-time bookings (0–3 days) and deploy staged multi-prompt SMS triggers at 14, 7, and 2 days prior to long lead-time appointments.
 - **Dynamic Overbooking Model:** Introduce a **15% capacity overbooking allowance** for appointments scheduled more than 14 days in advance to offset expected non-attendance decay.
 - **Targeted Clinic Resources:** Deploy localized patient engagement teams to top high-risk neighborhood clinics showing no-show rates above 25%.
+
+---
+
+## Author & Acknowledgements
+
+**Author:** Dhiliban R (AF05303153)  
+**Role:** Junior Data Analyst  
+**Education:** B.E. Computer Science and Engineering, Government College of Engineering, Salem  
+**Professional Upskilling:** Advanced Program in Data & Business Analytics with AI – Anudip Foundation (Pallavaram, Chennai)  
+
+### Connect & Follow
+- 💼 **LinkedIn:** [linkedin.com/in/dhilibanr](https://linkedin.com/in/dhilibanr)
+- 📁 **GitHub Repository:** [github.com/Dhiliban-R](https://github.com/Dhiliban-R)
+- 📧 **Email:** [dhilipanrc@gmail.com](mailto:dhilipanrc@gmail.com)
 
 ---
 
