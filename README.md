@@ -278,9 +278,9 @@ Open the interactive report file or view `Documentation/Health-Care_Report.pdf`.
 **Professional Upskilling:** Advanced Program in Data & Business Analytics with AI – Anudip Foundation (Pallavaram, Chennai)  
 
 ### Connect & Follow
-- 💼 **LinkedIn:** [linkedin.com/in/dhilibanr](https://linkedin.com/in/dhilibanr)
-- 📁 **GitHub Repository:** [github.com/Dhiliban-R](https://github.com/Dhiliban-R)
-- 📧 **Email:** [dhilipanrc@gmail.com](mailto:dhilipanrc@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/dhiliban-r](https://linkedin.com/in/dhiliban-r)
+- 📁 **GitHub Repository:** [github.com/dhiliban-r](https://github.com/dhiliban-r)
+- 📧 **Email:** [dhilipanr01@gmail.com](mailto:dhilipanr01@gmail.com)
 
 ---
 
